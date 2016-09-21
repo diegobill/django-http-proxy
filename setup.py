@@ -19,7 +19,7 @@ setup(
     url='http://django-http-proxy.readthedocs.org/',
     packages=find_packages(),
     install_requires=[
-        'Django>=1.6',
+        'Django>=1.4',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
